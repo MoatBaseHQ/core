@@ -1,7 +1,10 @@
 {
   "name": "@moatbase/core",
   "version": "0.1.0",
+  "description": "Secure AI-agent orchestration engine",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"No tests yet\""
-  }
+  },
+  "license": "MIT"
 }
