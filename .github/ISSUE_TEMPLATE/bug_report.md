@@ -1,26 +1,16 @@
 ---
-name: 🐞 Bug report  
-about: Report a reproducible bug in MoatBase Core  
-title: "[BUG] "  
-labels: bug  
+name: 🔨 Task  
+about: A general task or chore  
+title: "[TASK] "  
+labels: chore  
 assignees: ''
 ---
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What needs to be done?**  
+Describe the work.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to `…`
-2. Run `…`  
-3. See error
+**Why is this important?**  
+Context or link to related issues.
 
-**Expected behavior**
-What you expected to happen.
-
-**Screenshots / Logs**
-If applicable, add screenshots or paste relevant error logs.
-
-**Environment (please complete the following information):**
-  - OS: [e.g. Mac OS 13.4]  
-  - Node.js version: [e.g. 20.x]  
-  - MoatBase Core version: [e.g. 0.1.0]
+**Definition of done**  
+- [ ] Item 1  
+- [ ] Item 2
